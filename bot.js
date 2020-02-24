@@ -71,4 +71,4 @@ bot.on('message', message =>{
                         break;
         }
 })
-client.login(process.env.Bot Njc5MDYwMjIwNTkyMjU5MDk0.XlQxzQ.KAbKxJSwmOp8UAUdDPE-zyMQee8);
+client.login(process.env.BOT_Njc5MDYwMjIwNTkyMjU5MDk0.XlQxzQ.KAbKxJSwmOp8UAUdDPE-zyMQee8);
